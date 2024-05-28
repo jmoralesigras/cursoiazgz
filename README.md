@@ -9,8 +9,7 @@
 
 [BBC3_clases_modelo de mezcla gaussiano.xlsx](https://github.com/jmoralesigras/cursoiazgz/files/15466493/BBC3_clases_modelo.de.mezcla.gaussiano.xlsx)
 
-
-[Tablas Facturación y Empleadas.xlsx](https://github.com/jmoralesigras/cursoiazgz/files/15467535/Tablas.Facturacion.y.Empleadas.xlsx)
+[Tablas Facturación y Empleadas.xlsx](https://github.com/jmoralesigras/cursoiazgz/files/15467784/Tablas.Facturacion.y.Empleadas.xlsx)
 
 [Tablas Facturación y Empleadas CON ERRORES.xlsx](https://github.com/jmoralesigras/cursoiazgz/files/15467534/Tablas.Facturacion.y.Empleadas.CON.ERRORES.xlsx)
 
