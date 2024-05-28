@@ -5,6 +5,11 @@
 
 [Tutoriales Orange - Canal de YouTube](https://www.youtube.com/channel/UClKKWBe2SCAEyv7ZNGhIe4g)
 
+[Workflow de Orange Comentado](https://github.com/jmoralesigras/cursoiazgz/files/15466449/Modelo.Orange.Comentado.zip)
+
+[BBC3_clases_modelo de mezcla gaussiano.xlsx](https://github.com/jmoralesigras/cursoiazgz/files/15466493/BBC3_clases_modelo.de.mezcla.gaussiano.xlsx)
+
+
 # Contacto
 [jordi@eudan.eus](jordi@eudan.eus)
 
